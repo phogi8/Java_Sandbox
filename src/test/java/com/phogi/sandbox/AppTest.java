@@ -1,4 +1,5 @@
-package com.phogi.Sandbox;
+//package com.phogi.Sandbox;
+package com.phogi.sandbox;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
